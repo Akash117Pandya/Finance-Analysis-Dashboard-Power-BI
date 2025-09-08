@@ -1,0 +1,44 @@
+📝 Problem Statement
+
+Title: Finance Analysis Dashboard
+
+Objective:
+To create an interactive financial dashboard that helps businesses track revenues, expenses, and profitability over time. The dashboard highlights key performance indicators, identifies cost drivers, and enables decision makers to improve financial planning and operational efficiency.
+
+Stakeholders:
+
+CFO & Finance Teams
+
+Executives & Business Leaders
+
+Investors & Stakeholders
+
+Department Heads
+
+Key Questions:
+
+What are the total revenues, expenses, and net profit over time?
+
+Which departments or cost centers contribute most to expenses?
+
+What are the trends in operating and net margins?
+
+How do financial KPIs compare across months/quarters/years?
+
+Where can costs be optimized to improve profitability?
+
+KPIs:
+
+Total Revenue
+
+Total Expenses
+
+Net Profit
+
+Operating Margin %
+
+Expense Breakdown %
+
+Year-over-Year Growth %
+
+Profitability by Department/Region
